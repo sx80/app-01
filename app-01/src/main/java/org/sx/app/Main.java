@@ -5,7 +5,7 @@ public class Main {
 	public Main() {
 		// TODO Auto-generated constructor stub
 		
-		System.out.println("end....");
+		System.out.println("end...");
 	}
 
 	public static void main(String[] args) {
